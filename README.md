@@ -10,7 +10,7 @@ This Python script reads YOLO-style `.txt` annotation files in a specified direc
 - Simple command-line interface using `argparse`
 
 ## 📁 Project Structure
-
+```
 txt_label_counting/
 ├── label_counter_v2.py # Current modular script
 ├── label_counter_v1.ipynb # Legacy version (notebook style)
@@ -19,6 +19,7 @@ txt_label_counting/
 ├── sample1.txt
 ├── sample2.txt
 └── sample3.txt
+```
 
 ## 🧑‍💻 Usage
 
