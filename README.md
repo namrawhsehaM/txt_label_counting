@@ -19,6 +19,7 @@ txt_label_counting/
 ├── sample1.txt
 ├── sample2.txt
 └── sample3.txt
+└── class_counts.txt
 ```
 
 ## 🧑‍💻 Usage
